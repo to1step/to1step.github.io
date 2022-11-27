@@ -1,7 +1,7 @@
 ---
 layout: default
-title: proposal
+title: 튜토리얼
 nav_order: 1
 has_children: true
-permalink: docs/proposal
+permalink: docs/tutorials
 ---
