@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "리베이스"
-parent: tutorials
+title: 리베이스
+parent: 튜토리얼
 nav_order: 1
 ---
 
