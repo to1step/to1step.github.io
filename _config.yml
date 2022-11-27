@@ -1,4 +1,4 @@
-title: to1step documents
+title: to1step
 description: 그냥 하는 사이드 프로젝트
 theme: just-the-docs
 
@@ -38,4 +38,4 @@ search:
   # Supports true or false (default)
   button: false
 
-color_scheme: dark
+color_scheme: light
