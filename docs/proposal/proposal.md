@@ -6,4 +6,6 @@ has_children: true
 permalink: docs/proposal
 ---
 
+담당 : 박성준
+
 {: .no_toc }
