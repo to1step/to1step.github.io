@@ -19,7 +19,17 @@ ESLint 만 있다면 프로젝트 컨벤션을 확인하지 않더라도 높은 
 
 ## 원인
 
-아래 링크를 참고해서 원인과 해결 방안을 찾아야 한다.
-근데 출근해야해서 다음에 함
+```
+typescript-eslint enables ESLint to run on TypeScript code. It brings in the best of both tools to help you write the best JavaScript or TypeScript code you possibly can.
 
-- https://github.com/microsoft/vscode-discussions/discussions/1
+ESLint and TypeScript represent code differently internally. ESLint's default JavaScript parser cannot natively read in TypeScript-specific syntax and its rules don't natively have access to TypeScript's type information.
+
+typescript-eslint:
+allows ESLint to parse TypeScript syntax
+creates a set of tools for ESLint rules to be able to use TypeScript's type information
+provides a large list of lint rules that are specific to TypeScript and/or use that type information
+```
+
+## 대안
+
+tsconfig 를 작성하고 eslint 를 사용하면 된다.
