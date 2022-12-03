@@ -19,6 +19,11 @@ nav_order: 3
 
 ## 진짜 서울
 
+메인 화면은 아래 이미지를 2분할 한다.
+
+![](../../assets/images/main-top.png)
+![](../../assets/images/main-bottom.png)
+
 지도에 고속도로 휴게소 정보를 보여준다.
 
 ![](../../assets/images/map.png)
